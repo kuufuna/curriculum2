@@ -1,0 +1,13 @@
+
+・PostgreSQL・Oracle SQL
+データベース。
+PostgreSQL・・・オープンソース製品の中では機能が豊富かつ標準SQLへの準拠度が比較的高い。
+Oracle SQL・・・非常に高機能なDBMS。過去のバージョンの言語仕様に対応できる。
+
+・TortoiseGit・TortoiseSVN
+フリーソフトウェア。
+TortoiseGit・・・分散型バージョン管理システム。
+TortoiseSVN・・・Subversionのクライアントフロントエンドとなるソフトウェア。
+
+・デグレ
+デグレードのこと。新しいバージョンのソフトウェアの品質が以前より悪くなること。
